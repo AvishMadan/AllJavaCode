@@ -6,8 +6,9 @@ public abstract class AbstarctBank {  //abstract
 	
 	public static void getBalance() //signature name
 	{
-		
+		System.out.println("This change is done by Rupali");
 		System.out.println("Your baalance is 100$"); //coading
+		System.out.println("This change is done by Richa");
 	}
 	//50-50
 	public  abstract  void debitAmount();//abstraction
